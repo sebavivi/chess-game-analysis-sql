@@ -15,10 +15,10 @@ The analysis focuses on understanding patterns related to game outcomes, player 
 
 This project sought to answer the following questions using SQL:
 
-1.  *Game Outcomes:* What percentage of games are won by White, and what percentage end in a draw?
-2.  *Opening Moves:* What are the most common first moves in games won by Black, and separately, in games won by White?
-3.  *Rating Advantage:* What percentage of games are won by the player with the higher rating? Does this vary depending on the color they play?
-4.  *Top Players:* Which user has won the most games, and in what percentage of their victories did they have a higher rating than their opponent?
+1.  What percentage of games are won by White, and what percentage end in a draw?
+2.  What are the most common first moves in games won by Black, and separately, in games won by White?
+3.  What percentage of games are won by the player with the higher rating? Does this vary depending on the color they play?
+4.  Which user has won the most games, and in what percentage of their victories did they have a higher rating than their opponent?
 
 ---
 
